@@ -7,7 +7,6 @@
 
 
 ### 이미지
-![KAU 로고](../img/kau/kau.png "kau")
 
 
 
