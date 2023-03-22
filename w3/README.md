@@ -18,7 +18,7 @@
 
 [ProGit](https://git-scm.com/book/en/v2)
 
-#####주요 git 명령어
+##### 주요 git 명령어
 * add : 파일을 추적 대상으로 포함시킬 때, 또는 커밋 대상으로 포함시킬 때 사용
     * 예) git add <file name>
 * commit
@@ -76,13 +76,13 @@ echo "$last_line
 - 세번째
 + 두번째
 -----
-*빨강
+* 빨강
  * 녹색
   * 파랑
 
 ### 강조
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
+*single asterisks*    
+_single underscores_    
+**double asterisks**     
+__double underscores__     
 ~~cancelline~~
