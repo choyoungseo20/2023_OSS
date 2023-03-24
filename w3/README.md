@@ -36,8 +36,8 @@
 ```bash
 #!/bin/bash
 
-name="조영서"
-student_id="2020126094"
+name=" "
+student_id=" "
 file_path=$(find /home/kau2 -name "w2_homework.txt" 2>/dev/null)
 line_number=$(cat $file_path|wc -l)
 last_line=$(tail -n 1 $file_path)
